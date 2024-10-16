@@ -1,0 +1,239 @@
+[
+  {
+    "ContainingType": "DailyAppAPI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pwd",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountInfoDTO",
+        "Type": "DailyAppAPI.DTOs.AccountInfoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.MemoController",
+    "Method": "AddMemo",
+    "RelativePath": "api/Memo/AddMemo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "memo",
+        "Type": "DailyAppAPI.DTOs.MemoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.MemoController",
+    "Method": "DelMemo",
+    "RelativePath": "api/Memo/DelMemo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.MemoController",
+    "Method": "EditMemo",
+    "RelativePath": "api/Memo/EditMemo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "memoDTO",
+        "Type": "DailyAppAPI.DTOs.MemoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.MemoController",
+    "Method": "QueryMemo",
+    "RelativePath": "api/Memo/QueryMemo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.MemoController",
+    "Method": "StatMemo",
+    "RelativePath": "api/Memo/StatMemo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "AddToDo",
+    "RelativePath": "api/ToDo/AddToDo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "todoDTO",
+        "Type": "DailyAppAPI.DTOs.ToDoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "DelToDo",
+    "RelativePath": "api/ToDo/DelToDo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "GetToDoList",
+    "RelativePath": "api/ToDo/GetToDoList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "QueryToDo",
+    "RelativePath": "api/ToDo/QueryToDo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "StatToDo",
+    "RelativePath": "api/ToDo/StatToDo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/ToDo/UpdateStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newStatusDto",
+        "Type": "DailyAppAPI.DTOs.ToDoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.ToDoController",
+    "Method": "UpdateToDo",
+    "RelativePath": "api/ToDo/UpdateToDo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newToDo",
+        "Type": "DailyAppAPI.DTOs.ToDoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DailyAppAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DailyAppAPI.WeatherForecast, DailyAppAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

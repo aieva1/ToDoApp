@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DailyAppAPI</name>
+    </assembly>
+    <members>
+        <member name="P:DailyAppAPI.DataModel.ToDoInfo.Status">
+            <summary>
+            status 0-ToDo,1-completed
+            </summary>
+        </member>
+    </members>
+</doc>

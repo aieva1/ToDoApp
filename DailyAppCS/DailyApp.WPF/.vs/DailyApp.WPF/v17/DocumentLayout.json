@@ -1,0 +1,701 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\todoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\todoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\memoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\memoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\todouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\todouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\memouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\memouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\dialogs\\editmemoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\dialogs\\editmemoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\dialogs\\edittodoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\dialogs\\edittodoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\dialogs\\addmemoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\dialogs\\addmemoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\dailogs\\editmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\editmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\dailogs\\addmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\dailogs\\addtodouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addtodouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\dtos\\memoinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\dtos\\memoinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\dialogs\\addtodoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\dialogs\\addtodoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\models\\statpanelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\models\\statpanelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\dailogs\\edittodouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\edittodouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\dtos\\todoinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\dtos\\todoinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\dailogs\\edittodouc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\edittodouc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\dailogs\\addtodouc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addtodouc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\service\\dialoghostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\service\\dialoghostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\service\\idialoghostaware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\service\\idialoghostaware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\dtos\\stattododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\dtos\\stattododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\mainwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\mainwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\converters\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\converters\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\personalucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\personalucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\viewmodels\\settingsucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\settingsucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\personaluc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\personaluc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\settingsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\settingsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\memouc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\memouc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\httpclients\\httpresclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\httpclients\\httpresclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\httpclients\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\httpclients\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyapp.wpf\\httpclients\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73C2E1-FB46-484D-8469-4477216E8265}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\httpclients\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\App.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T15:07:01.908Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MemoUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\MemoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T20:25:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\ToDoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\ToDoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\ToDoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\ToDoUCViewModel.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:44:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:13:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\ToDoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\ToDoUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\ToDoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\ToDoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T14:58:48.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\HomeUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\HomeUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T14:31:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAwwFABAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:43:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditMemoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:36:13.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditToDoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\EditToDoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\Dialogs\\EditToDoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\EditToDoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\Dialogs\\EditToDoUCViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:13:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\App.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\App.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:09:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddMemoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\AddMemoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\Dialogs\\AddMemoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\AddMemoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\Dialogs\\AddMemoUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:03:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditMemoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T14:35:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddMemoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T21:00:15.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddToDoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T22:32:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemoInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\DTOs\\MemoInfoDTO.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\DTOs\\MemoInfoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\DTOs\\MemoInfoDTO.cs",
+              "RelativeToolTip": "DailyApp.WPF\\DTOs\\MemoInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:47:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddToDoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\AddToDoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\Dialogs\\AddToDoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\AddToDoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\Dialogs\\AddToDoUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:38:12.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StatPanelInfo.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Models\\StatPanelInfo.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Models\\StatPanelInfo.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Models\\StatPanelInfo.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Models\\StatPanelInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:54:10.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditToDoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T21:08:38.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWin.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MainWin.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\MainWin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T15:28:44.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToDoInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\DTOs\\ToDoInfoDTO.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\DTOs\\ToDoInfoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\DTOs\\ToDoInfoDTO.cs",
+              "RelativeToolTip": "DailyApp.WPF\\DTOs\\ToDoInfoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:30:59.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditToDoUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\EditToDoUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:27:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddToDoUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddToDoUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:09:19.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DialogHostService.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Service\\DialogHostService.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Service\\DialogHostService.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Service\\DialogHostService.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Service\\DialogHostService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:49:05.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDialogHostAware.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Service\\IDialogHostAware.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Service\\IDialogHostAware.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Service\\IDialogHostAware.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Service\\IDialogHostAware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:55:05.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwEIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:34:10.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWinViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:39:06.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StatToDoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\DTOs\\StatToDoDTO.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\DTOs\\StatToDoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\DTOs\\StatToDoDTO.cs",
+              "RelativeToolTip": "DailyApp.WPF\\DTOs\\StatToDoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:47:49.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:24:16.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MainWin.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\MainWin.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:38:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PersonalUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T18:31:56.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonalUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\PersonalUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\PersonalUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\PersonalUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\PersonalUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:05:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PersonalUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\PersonalUC.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\PersonalUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:45:14.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SysSetUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\SysSetUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\SysSetUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\SysSetUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\SysSetUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T15:56:48.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SettingsUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\SettingsUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\SettingsUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\SettingsUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\SettingsUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T13:42:53.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SettingsUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\SettingsUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\SettingsUCViewModel.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\ViewModels\\SettingsUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\SettingsUCViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:45:23.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ColorToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Converters\\ColorToBrushConverter.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Converters\\ColorToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Converters\\ColorToBrushConverter.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Converters\\ColorToBrushConverter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:21:12.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AboutUsUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T15:57:07.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MemoUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MemoUC.xaml.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\MemoUC.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:37:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginUC.xaml",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\LoginUC.xaml",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\LoginUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T20:52:47.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HttpResClient.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\HttpClients\\HttpResClient.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\HttpClients\\HttpResClient.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\HttpClients\\HttpResClient.cs",
+              "RelativeToolTip": "DailyApp.WPF\\HttpClients\\HttpResClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:02:12.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\HttpClients\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\HttpClients\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\HttpClients\\ApiResponse.cs",
+              "RelativeToolTip": "DailyApp.WPF\\HttpClients\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:59:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\HttpClients\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\HttpClients\\ApiRequest.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyApp.WPF\\HttpClients\\ApiRequest.cs",
+              "RelativeToolTip": "DailyApp.WPF\\HttpClients\\ApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:35:22.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

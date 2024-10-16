@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AboutUsUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Dailogs\AddMemoUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Dailogs\AddToDoUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Dailogs\EditMemoUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Dailogs\EditToDoUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HomeUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainWin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MemoUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PersonalUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SettingsUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SysSetUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ToDoUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AboutUsUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dailogs\AddMemoUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dailogs\AddToDoUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dailogs\EditMemoUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dailogs\EditToDoUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MemoUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PersonalUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SettingsUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SysSetUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ToDoUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\a1192\Documents\Games\ApiPub</_PublishTargetUrl>
+    <History>True|2024-10-16T20:57:44.6330064Z||;True|2024-10-16T21:28:17.4387475+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnStr">
+      <Value>server=Heng%3bdatabase=DailyApp%3bIntegrated Security=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

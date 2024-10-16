@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\automappers\\automappersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\automappers\\automappersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\dtos\\memodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\dtos\\memodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\datamodel\\dailydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\datamodel\\dailydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\datamodel\\memoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\datamodel\\memoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\datamodel\\todoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\datamodel\\todoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\dtos\\accountinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\dtos\\accountinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\dtos\\stattododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\dtos\\stattododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\datamodel\\accountinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\datamodel\\accountinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\migrations\\20241008222101_heng1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\migrations\\20241008222101_heng1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|c:\\users\\a1192\\documents\\games\\dailyapp\\dailyappcs\\dailyapp.wpf\\dailyappapi\\dailyappapi\\apiresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6CCD-CE74-4DF4-8794-8632D3C3A0FE}|DailyAppAPI\\DailyAppAPI.csproj|solutionrelative:dailyappapi\\apiresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "DailyAppAPI\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAADwv+gAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:47:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperSettings.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\AutoMappers\\AutoMapperSettings.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\AutoMappers\\AutoMapperSettings.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\AutoMappers\\AutoMapperSettings.cs",
+              "RelativeToolTip": "DailyAppAPI\\AutoMappers\\AutoMapperSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:10:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Program.cs*",
+              "RelativeToolTip": "DailyAppAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:14:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoController.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Controllers\\MemoController.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\Controllers\\MemoController.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Controllers\\MemoController.cs",
+              "RelativeToolTip": "DailyAppAPI\\Controllers\\MemoController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAswKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:42:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\MemoDTO.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DTOs\\MemoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\MemoDTO.cs",
+              "RelativeToolTip": "DailyAppAPI\\DTOs\\MemoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:39:09.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoInfo.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\ToDoInfo.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DataModel\\ToDoInfo.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\ToDoInfo.cs",
+              "RelativeToolTip": "DailyAppAPI\\DataModel\\ToDoInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:30:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DailyAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\appsettings.json",
+              "RelativeToolTip": "DailyAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T23:14:02.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DailyAppAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wC4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:46:17.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DailyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\DailyDbContext.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DataModel\\DailyDbContext.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\DailyDbContext.cs",
+              "RelativeToolTip": "DailyAppAPI\\DataModel\\DailyDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:06:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemoInfo.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\MemoInfo.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DataModel\\MemoInfo.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\MemoInfo.cs",
+              "RelativeToolTip": "DailyAppAPI\\DataModel\\MemoInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:32:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\ToDoDTO.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DTOs\\ToDoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\ToDoDTO.cs",
+              "RelativeToolTip": "DailyAppAPI\\DTOs\\ToDoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:44:42.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountInfo.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\AccountInfo.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DataModel\\AccountInfo.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DataModel\\AccountInfo.cs",
+              "RelativeToolTip": "DailyAppAPI\\DataModel\\AccountInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:38:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241008222101_Heng1.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Migrations\\20241008222101_Heng1.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\Migrations\\20241008222101_Heng1.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\Migrations\\20241008222101_Heng1.cs",
+              "RelativeToolTip": "DailyAppAPI\\Migrations\\20241008222101_Heng1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:21:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\AccountInfoDTO.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DTOs\\AccountInfoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\AccountInfoDTO.cs",
+              "RelativeToolTip": "DailyAppAPI\\DTOs\\AccountInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:39:26.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatToDoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\StatToDoDTO.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\DTOs\\StatToDoDTO.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\DTOs\\StatToDoDTO.cs",
+              "RelativeToolTip": "DailyAppAPI\\DTOs\\StatToDoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:29:19.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\ApiResponses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DailyAppAPI\\ApiResponses\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\a1192\\Documents\\Games\\DailyAPP\\DailyAppCS\\DailyApp.WPF\\DailyAppAPI\\DailyAppAPI\\ApiResponses\\ApiResponse.cs",
+              "RelativeToolTip": "DailyAppAPI\\ApiResponses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:28:03.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
